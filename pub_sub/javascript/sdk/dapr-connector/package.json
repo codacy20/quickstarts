@@ -1,9 +1,9 @@
 {
     "name": "dapr-connector",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "dapr connector",
-    "main": "out/index.ts",
-    "types": "out/index.d.ts",
+    "main": "dist/index.ts",
+    "types": "dist/index.d.ts",
     "license": "MIT",
     "scripts": {
         "build": "tsc"
