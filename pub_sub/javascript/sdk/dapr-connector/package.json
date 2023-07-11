@@ -1,6 +1,6 @@
 {
     "name": "dapr-connector",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "dapr connector",
     "main": "dist/index.ts",
     "types": "dist/index.d.ts",
